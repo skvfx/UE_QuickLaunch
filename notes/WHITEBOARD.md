@@ -22,3 +22,7 @@ for UE_Quicklaunch installer - maybe better language
 ![](../assets/media/Pasted%20image%2020231017102955.png)
 
 
+Look into replacing the wix installer with Inno Setup - Wix is just too undocumented
+
+
+
