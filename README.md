@@ -82,6 +82,8 @@ When you launch a new project with your template, the contents of the uproject f
 > When creating or using a template project, the contents have to be compatible with the version of Unreal you're launching.  For example, you may be able to create a template map/level in UE 4.27 and successfully launch it in UE 5.3, but trying to load a UE 5.3 level asset into 4.27 will probably not work.  
 > 
 > Unlike asset files, loading config files and (`uproject`) files in different versions seems relatively benign.  Watch out for unusual behaviors.  In my experience I've not seen any problems, but be aware that what a setting does in one version of Unreal may provide a different behavior in another.  To be safe, generate your template project in the oldest version of Unreal that you tend to work in. 
+>
+> The default template that installs with UE_Quicklaunch is compatible with UE5.  You may want to replace it if you run earlier versions of Unreal.
 
 ## Building from source
 
