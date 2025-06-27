@@ -22,7 +22,7 @@
   <a href="https://github.com/skvfx/UE_QuickLaunch/issues/">
     <img src="https://img.shields.io/github/issues/skvfx/UE_QuickLaunch" alt="open issues" />
   </a>
-  <a href="https://github.com/skvfx/UE_QuickLaunch/blob/master/LICENSE">
+  <a href="https://github.com/skvfx/UE_QuickLaunch/blob/master/LICENSE.md">
     <img src="https://img.shields.io/github/license/skvfx/UE_QuickLaunch.svg" alt="license" />
   </a>
   <a href="https://discord.gg/qwru5MY8jk">
