@@ -35,9 +35,9 @@
   <span> · </span>-->
     <a href="https://github.com/skvfx/UE_QuickLaunch#readme">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/skvfx/UE_QuickLaunch/issues/">Report Bug</a>
+    <a href="https://github.com/skvfx/UE_QuickLaunch/issues/new?labels=bug&title=%5BBUG%5D">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/skvfx/UE_QuickLaunch/issues/">Request Feature</a>
+    <a href="https://github.com/skvfx/UE_QuickLaunch/issues/new?labels=enhancement&title=%5BFEATURE+REQUEST%5D">Request Feature</a>
   </h4>
 </div>
 
