@@ -2,28 +2,28 @@
 <div align="center">
 
   <img src="assets/media/banner.png" alt="logo" width="701" height="auto" />
-  <h1><a href="https://github.com/ScottKirvan/UE_QuickLaunch">ScottKirvan/UE_QuickLaunch</a></h1>
+  <h1><a href="https://github.com/skvfx/UE_QuickLaunch">skvfx/UE_QuickLaunch</a></h1>
   <h3>A Right-click quick-launch menu for Unreal Engine</h3>
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ScottKirvan/UE_QuickLaunch/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ScottKirvan/UE_QuickLaunch" alt="contributors" />
+  <a href="https://github.com/skvfx/UE_QuickLaunch/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/skvfx/UE_QuickLaunch" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/ScottKirvan/UE_QuickLaunch" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/skvfx/UE_QuickLaunch" alt="last update" />
   </a>
-  <a href="https://github.com/ScottKirvan/UE_QuickLaunch/network/members">
-    <img src="https://img.shields.io/github/forks/ScottKirvan/UE_QuickLaunch" alt="forks" />
+  <a href="https://github.com/skvfx/UE_QuickLaunch/network/members">
+    <img src="https://img.shields.io/github/forks/skvfx/UE_QuickLaunch" alt="forks" />
   </a>
-  <a href="https://github.com/ScottKirvan/UE_QuickLaunch/stargazers">
-    <img src="https://img.shields.io/github/stars/ScottKirvan/UE_QuickLaunch" alt="stars" />
+  <a href="https://github.com/skvfx/UE_QuickLaunch/stargazers">
+    <img src="https://img.shields.io/github/stars/skvfx/UE_QuickLaunch" alt="stars" />
   </a>
-  <a href="https://github.com/ScottKirvan/UE_QuickLaunch/issues/">
-    <img src="https://img.shields.io/github/issues/ScottKirvan/UE_QuickLaunch" alt="open issues" />
+  <a href="https://github.com/skvfx/UE_QuickLaunch/issues/">
+    <img src="https://img.shields.io/github/issues/skvfx/UE_QuickLaunch" alt="open issues" />
   </a>
-  <a href="https://github.com/ScottKirvan/UE_QuickLaunch/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ScottKirvan/UE_QuickLaunch.svg" alt="license" />
+  <a href="https://github.com/skvfx/UE_QuickLaunch/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/skvfx/UE_QuickLaunch.svg" alt="license" />
   </a>
   <a href="https://discord.gg/qwru5MY8jk">
     <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=discord&color=00ACD7">
@@ -31,20 +31,20 @@
 </p>
 
 <h4>
-    <!--<a href="https://github.com/ScottKirvan/UE_QuickLaunch/">View Demo</a>
+    <!--<a href="https://github.com/skvfx/UE_QuickLaunch/">View Demo</a>
   <span> · </span>-->
-    <a href="https://github.com/ScottKirvan/UE_QuickLaunch#readme">Documentation</a>
+    <a href="https://github.com/skvfx/UE_QuickLaunch#readme">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/ScottKirvan/UE_QuickLaunch/issues/">Report Bug</a>
+    <a href="https://github.com/skvfx/UE_QuickLaunch/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ScottKirvan/UE_QuickLaunch/issues/">Request Feature</a>
+    <a href="https://github.com/skvfx/UE_QuickLaunch/issues/">Request Feature</a>
   </h4>
 </div>
 
 **UE_QuickLaunch** is a right-click Unreal Engine project creator/launcher for Windows File Explorer. Right-click on or in a folder, and quickly create a [minimal unreal project](https://gist.github.com/ScottKirvan/84d287bafed19a1e9f0b8764ba21ceb8) (`uproject`) with the same name as the folder. If an unreal project file already exists, QuickLaunch just opens it.
 ## Installation and basic usage
 
-Download and run [UE_QuickLaunch_installer.msi](https://github.com/ScottKirvan/UE_QuickLaunch/releases).  The installer, by default, installs into `c:\Program Files\UE_QuickLaunch`.  It will ask for permissions to add the registry settings.
+Download and run [UE_QuickLaunch_installer.msi](https://github.com/skvfx/UE_QuickLaunch/releases).  The installer, by default, installs into `c:\Program Files\UE_QuickLaunch`.  It will ask for permissions to add the registry settings.
 
 After successfully installing, right-clicking on a folder or an empty area within File Explorer will display it's context menu.  Select **QuickLaunch Unreal Engine here** to create a new project and launch Unreal Engine. 
 
@@ -144,7 +144,7 @@ I've written up a short document outlining the registry changes [here](notes/Reg
 ## Contributions
 
 I'd love it if you'd contribute - or just reach out and say, "hi"!  Here's how:
-- Please [file an issue](https://github.com/ScottKirvan/UE_QuickLaunch/issues), or grab a fork, hack away, and create some [pull requests](https://github.com/ScottKirvan/UE_QuickLaunch/pulls).
+- Please [file an issue](https://github.com/skvfx/UE_QuickLaunch/issues), or grab a fork, hack away, and create some [pull requests](https://github.com/ScottKirvan/UE_QuickLaunch/pulls).
 - Contact me on [LinkedIn](https://www.linkedin.com/in/scottkirvan/)
 - You can also reach me on my [discord](https://discord.gg/TSKHvVFYxB) server, I'm @cptvideo.
 ## Credits
