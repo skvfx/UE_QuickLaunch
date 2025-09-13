@@ -87,7 +87,7 @@ When you launch a new project with your template, the contents of the uproject f
 
 ## Building from source
 
-If you choose to build this from source, everything you need is packaged up as a **Microsoft Visual Studio Solution** in the `src` folder.  You'll need the Visual Studio **HeatWave** extension to build the installer itself.  See the additional notes in the src [README](src/README.md).
+If you choose to build this from source, everything you need is packaged up as a **Microsoft Visual Studio Solution** in the `src` folder.  You'll need the Visual Studio **HeatWave** extension to build the installer itself.  See the additional notes in the [src README](src/README.md).
 
 ## How to use it
 
