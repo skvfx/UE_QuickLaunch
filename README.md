@@ -1,4 +1,4 @@
-# UE_QuickLaunch [![starline](https://starlines.qoo.monster/assets/OWNER/REPO)](https://github.com/qoomon/starline)
+# UE_QuickLaunch [![starline](https://starlines.qoo.monster/assets/skvfx/UE_QuickLaunch)](https://github.com/qoomon/starline)
 <div align="center">
 
   <img src="assets/media/banner.png" alt="logo" width="701" height="auto" />
